@@ -9,7 +9,7 @@ with open('scaler.pkl', 'rb') as scaler_file:
 with open('model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
-st.title("E-Commerce Sales Predictor")
+st.title("Spent Amount Predictor")
 
 
 avg_session_length = st.number_input("Avg. Session Length")
