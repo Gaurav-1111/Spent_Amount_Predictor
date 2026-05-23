@@ -20,7 +20,7 @@ This project aims to predict the **Yearly Amount Spent** by customers based on t
 ## 📈 Project Overview
 
 The objective is to analyze user data and build a regression model to predict **Yearly Amount Spent**. Insights from this model can help businesses personalize marketing strategies and understand customer behavior.
-![image]
+![image](https://github.com/Gaurav-1111/Spent_Amount_Predictor/blob/main/Spent_Amount_Predictor.jpg)
 ---
 
 ## 📊 Dataset Description
